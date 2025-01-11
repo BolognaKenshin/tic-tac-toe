@@ -1,0 +1,27 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folders (commonly used for Python projects)
+venv/
+env/
+*.env
+
+# IDE or editor-specific files (for example, PyCharm, VSCode, etc.)
+.vscode/
+.idea/
+
+# Operating system-specific files
+.DS_Store  # macOS specific
+Thumbs.db  # Windows specific
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+
+# Python distribution files
+*.egg-info/
+dist/
+build/
